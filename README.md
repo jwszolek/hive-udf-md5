@@ -1,2 +1,9 @@
 # hive-udf-md5
-Hive 1.1 MD5 UDF
+
+UDF function compatible with Hive 1.1 that allows you to use MD5 encryption.
+
+## Build
+
+git clone 
+
+
